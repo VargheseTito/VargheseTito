@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghesetito&label=Profile%20views&color=0e75b6&style=flat" alt="varghesetito" /> </p>
 
 
-- 🔭 Hands on Experience **Clustering, Sentiment Analysis, Classification and Regression Machine Learning Models**
+- 🔭 Hands on Experience **in Clustering, Sentiment Analysis, Classification and Regression Machine Learning Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/varghesetito](https://github.com/varghesetito)
 
