@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tito.varghese1992@gmail.com**
 
-- 📄 Know about my experiences [Data Science Trainee at Alma Better](Data Science Trainee at Alma Better)
+- 📄 Know about my experiences (Data Science Trainee at Alma Better)
 
 - ⚡ Fun fact **friendly and an excellent travel buddy**
 
